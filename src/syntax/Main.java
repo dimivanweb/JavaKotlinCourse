@@ -1,3 +1,5 @@
+package syntax;
+
 //публичный метод
 public class Main {
     //точка входа в программу
